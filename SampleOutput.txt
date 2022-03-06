@@ -1,0 +1,4 @@
+|| 0x4532BBeA6EC2Df2b914df9c3f03D1D19F30701b1 || 2022-03-06 22:44:31.860165
+Plants total: 655 | New plants ready: 102 | Seeds total: 266540477 | Minutes per Plant: 65.95 | Next Plant ETA: 665 seconds
+
+Waiting 665 seconds until the next plant is complete
